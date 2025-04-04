@@ -58,4 +58,7 @@ Displays the distribution of graduates in Physics, Biology, Geography, and Math 
    git clone https://github.com/your-username/canada-dash-employment.git
    cd canada-dash-employment
 
+2. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
 
