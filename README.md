@@ -23,6 +23,7 @@ Each Dash app runs independently and provides interactive features such as dropd
 
 ### 1. **Task 1: Essential Services Choropleth**
 Visualizes the ratio of Nurses, Police, Firefighters, and Total essential workers to population by province.
+
 ![Dashboard_1](https://github.com/user-attachments/assets/bd8cbcd3-d135-47eb-97ec-74841b697b08)
 - **Type**: Choropleth Map
 - **Interaction**: Dropdown to select service type
@@ -31,6 +32,7 @@ Visualizes the ratio of Nurses, Police, Firefighters, and Total essential worker
 ### 2. **Task 2: Gender Distribution by Occupation**
 Displays a grouped bar chart comparing male and female representation across various occupations for each province/territory.
 
+![Dashboard_2](https://github.com/user-attachments/assets/f7d90384-e1c6-4cc5-817b-d912dab5c14f)
 - **Type**: Grouped Bar Chart
 - **Interaction**: Dropdown to select province
 - **Tool**: `plotly.express.bar`
@@ -38,6 +40,7 @@ Displays a grouped bar chart comparing male and female representation across var
 ### 3. **Task 3: EV Manpower by Engineering Discipline**
 Analyzes the availability of Computer, Electrical, and Mechanical engineers in each province—relevant to EV industry growth.
 
+![Dashboard_3](https://github.com/user-attachments/assets/f771422f-94d0-4140-84e8-ed17fea234b7)
 - **Type**: Bar Chart
 - **Interaction**: Dropdown to select province
 - **Tool**: `plotly.express.bar`
@@ -45,6 +48,7 @@ Analyzes the availability of Computer, Electrical, and Mechanical engineers in e
 ### 4. **Task 4: Natural Science Graduates**
 Displays the distribution of graduates in Physics, Biology, Geography, and Math by gender and province.
 
+![Dashboard_4](https://github.com/user-attachments/assets/6ac4aa42-6105-42ff-a1d8-20e4745bb35f)
 - **Type**: Stacked Bar Chart
 - **Interaction**: Dropdown to filter by gender
 - **Tool**: `plotly.express.bar`
