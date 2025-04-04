@@ -23,7 +23,7 @@ Each Dash app runs independently and provides interactive features such as dropd
 
 ### 1. **Task 1: Essential Services Choropleth**
 Visualizes the ratio of Nurses, Police, Firefighters, and Total essential workers to population by province.
-
+![Dashboard_1](https://github.com/user-attachments/assets/bd8cbcd3-d135-47eb-97ec-74841b697b08)
 - **Type**: Choropleth Map
 - **Interaction**: Dropdown to select service type
 - **Tool**: `plotly.express.choropleth`
