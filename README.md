@@ -1,6 +1,6 @@
 # 🇨🇦 Canada Employment & Essential Services Dashboard
 
-This interactive Dash application visualizes employment statistics and essential services across Canadian provinces and territories. Developed as part of a data-driven education toolkit focused on the **UN Sustainable Development Goal: Zero Hunger**, this dashboard helps users critically analyze the distribution of key occupations and resources relevant to food security and sustainable development.
+This interactive Dash application visualizes employment statistics and essential services across Canadian provinces and territories. This dashboard helps users critically analyze the distribution of key occupations and resources relevant to technological development.
 
 ---
 
